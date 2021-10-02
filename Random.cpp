@@ -13,6 +13,9 @@ string random(int len)
 	for(int i = 0; i < len; i++) r.push_back(a.at(size_t(rand() % 62)));
 	return r;
 	int a = 12;
+	cout<<a<<endl;
+	a++;
+	cout<<a<<endl;
 	
 }
 
