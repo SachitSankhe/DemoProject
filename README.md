@@ -1,3 +1,2 @@
 # DemoProject
 
-pip install pytube
